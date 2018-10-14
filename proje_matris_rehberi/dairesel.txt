@@ -1,0 +1,5 @@
+girilen matris daireseldir
+  2  2  2  2
+  2  2  2  2
+  2  2  2  2
+  2  2  2  2

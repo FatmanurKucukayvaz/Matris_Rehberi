@@ -1,0 +1,1 @@
+girilen matris hadamard degildir

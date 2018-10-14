@@ -1,0 +1,5 @@
+girilen matris simetriktir
+  1  1  1  1
+  1  1  1  1
+  1  1  1  1
+  1  1  1  1

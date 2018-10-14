@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449598244 source:c:\users\dell\desktop\kou\2.sýnýf\1.dönem\prolab\1.proje\proje_matris_rehberi\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+
